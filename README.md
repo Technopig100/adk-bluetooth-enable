@@ -1,1 +1,1 @@
-# ADK-Linux Printer service enable
+# ADK-Linux Bluetooth service enable

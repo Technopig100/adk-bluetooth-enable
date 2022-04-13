@@ -1,0 +1,2 @@
+This is a app to enable bluetooth services for adk-linux  
+"systemctl enable --now bluetooth.service"
